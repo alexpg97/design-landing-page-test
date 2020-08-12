@@ -1,0 +1,21 @@
+.footer-item-title{
+  margin: 0;
+}
+
+.search-partners-left{
+  text-align: left;
+}
+.search-partners-rigth{
+  text-align: right;
+}
+.search-partners-txt{
+  width: 250px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.search-partners-btn{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 0;
+  width: 200px;
+}

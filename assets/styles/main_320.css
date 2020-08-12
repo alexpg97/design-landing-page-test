@@ -34,3 +34,20 @@
 .activities-card {
   height: 25vh;
 }
+.footer-item-title{
+  margin: auto;
+}
+
+.search-partners-left{
+text-align: center;
+}
+.search-partners-rigth{
+  text-align: center;
+}
+.search-partners-txt{
+  width: 90vw;
+}
+.search-partners-btn{
+  margin-top: 10px;
+  width: 90vw;
+}

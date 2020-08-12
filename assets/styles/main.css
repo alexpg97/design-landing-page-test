@@ -66,6 +66,11 @@ html {
   font-size: 1.3rem;
   font-weight: bold;
 }
+.section-subtitle {
+  font-family: "Monserrat";
+  font-size: 1.2rem;
+  color: gray;
+}
 
 .step-1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
@@ -181,8 +186,44 @@ html {
     url("../images/Traveling.png");
 }
 
+.search-partners-txt{
+  padding: 0 10px;
+}
+.search-partners-btn {
+  border-radius: 25px;
+  border: #ff4e50 2px solid;
+  background: #ff4e50;
+  padding: 2px 15px;
+  font-family: Monserrat;
+  color: white;
+  font-weight: bold;
+}
+
+.search-partners-btn:hover {
+  border: white 2px solid;
+}
+
 .footer {
   border-top: #ff4e50 2px solid;
-  margin-top: 50px;
+  margin-top: 10vh;
   height: 20vh;
+}
+.footer-container {
+  width: 70vw;
+  margin: auto;
+  margin-bottom: 10vh;
+}
+.footer-logo-text{
+  font-family: 'Roboto';
+  color: #ff4e50;
+  text-transform: uppercase;
+  font-size: large;
+}
+.footer-logo-title{
+  color: #cccccc;
+}
+img.footer-logo{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
 }
