@@ -1,0 +1,37 @@
+.banner-title {
+  width: 52vw;
+  font-size: 2.5rem;
+}
+.banner button {
+  font-size: 1.2rem;
+}
+.body-container {
+  width: 70vw;
+  margin: auto;
+}
+
+.step-title{
+  font-size: 1.2rem;
+}
+.step-decription {
+  font-size: 0.9rem;
+}
+.step-1-container {
+  left: 16%;
+  width: 18%;
+}
+.step-2-container {
+  left: 41%;
+  width: 17%;
+}
+.step-3-container {
+  left: 65%;
+  width: 17%;
+}
+.partner-card img {
+  height: 35vh;
+  width: 80%;
+}
+.activities-card {
+  height: 30vh;
+}

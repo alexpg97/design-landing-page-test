@@ -1,0 +1,32 @@
+.banner-title {
+  width: 70vw;
+  font-size: 2.3rem;
+}
+.banner button {
+  font-size: 1.1rem;
+}
+.body-container {
+  width: 90vw;
+}
+.how-it-works {
+  height: 40vh;
+  width: 31%;
+  background-size: auto;
+}
+
+.step-1-container {
+  left: 8%;
+  width: 20%;
+}
+.step-2-container {
+  left: 38%;
+  width: 22%;
+}
+.step-3-container {
+  right: 10%;
+  width: 20%;
+}
+.partner-card img {
+  height: 50vh;
+  width: 90%;
+}

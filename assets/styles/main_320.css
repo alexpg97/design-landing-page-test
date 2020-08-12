@@ -1,0 +1,36 @@
+.banner-title {
+  width: 100vw;
+  font-size: 2rem;
+}
+.banner button {
+  font-size: 1rem;
+}
+.body-container {
+  width: 90vw;
+  margin: auto;
+}
+.how-it-works {
+  width: 99%;
+  height: 30vh;
+  margin: 3% 1%;
+}
+
+.step-container {
+  margin-top: 10vh;
+}
+.step-1-container {
+  width: 80%;
+}
+.step-2-container {
+  width: 80%;
+}
+.step-3-container {
+  width: 80%;
+}
+.partner-card img {
+  height: 40vh;
+  width: 70%;
+}
+.activities-card {
+  height: 25vh;
+}
